@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>08339F24-46DD-4F73-AFBB-1D5F5BE7B313</string>
+	<string>47682514-9524-40DA-A634-F0E2DCBCE7C4</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Tac</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>749DFE49-9C9C-42B6-9CDB-709A99A96E0E</key>
-		<string>https://github.com/dmerrill88/IOS-Ironyard.git</string>
+		<key>34F724A0-DE63-4DFA-BB32-FB1226C79740</key>
+		<string>https://github.com/dmerrill88/Tac.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Tac/Tac.xcodeproj/project.xcworkspace</string>
+	<string>Tac.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>749DFE49-9C9C-42B6-9CDB-709A99A96E0E</key>
-		<string>../../..</string>
+		<key>34F724A0-DE63-4DFA-BB32-FB1226C79740</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/dmerrill88/IOS-Ironyard.git</string>
+	<string>https://github.com/dmerrill88/Tac.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>749DFE49-9C9C-42B6-9CDB-709A99A96E0E</string>
+	<string>34F724A0-DE63-4DFA-BB32-FB1226C79740</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>749DFE49-9C9C-42B6-9CDB-709A99A96E0E</string>
+			<string>34F724A0-DE63-4DFA-BB32-FB1226C79740</string>
 			<key>IDESourceControlWCCName</key>
-			<string>IOS-Ironyard</string>
+			<string>Tac</string>
 		</dict>
 	</array>
 </dict>
