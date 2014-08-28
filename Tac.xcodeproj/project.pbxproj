@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6019206F19AF753700DED745 /* TTTGameData.m in Sources */ = {isa = PBXBuildFile; fileRef = 6019206E19AF753700DED745 /* TTTGameData.m */; };
 		601D0A421987D98B00E2094C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 601D0A411987D98B00E2094C /* Foundation.framework */; };
 		601D0A441987D98B00E2094C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 601D0A431987D98B00E2094C /* CoreGraphics.framework */; };
 		601D0A461987D98B00E2094C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 601D0A451987D98B00E2094C /* UIKit.framework */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6019206D19AF753700DED745 /* TTTGameData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TTTGameData.h; path = TacTests/TTTGameData.h; sourceTree = SOURCE_ROOT; };
+		6019206E19AF753700DED745 /* TTTGameData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TTTGameData.m; path = TacTests/TTTGameData.m; sourceTree = SOURCE_ROOT; };
 		601D0A3E1987D98B00E2094C /* Tac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		601D0A411987D98B00E2094C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		601D0A431987D98B00E2094C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -183,6 +186,8 @@
 				602F2A2E1988295A002F8E72 /* circle.png */,
 				602F2A2F1988295A002F8E72 /* spot.png */,
 				602F2A301988295A002F8E72 /* x.png */,
+				6019206D19AF753700DED745 /* TTTGameData.h */,
+				6019206E19AF753700DED745 /* TTTGameData.m */,
 			);
 			path = xo_files;
 			sourceTree = "<group>";
@@ -290,6 +295,7 @@
 				602F2A2C1987DD36002F8E72 /* TTTouchSpot.m in Sources */,
 				601D0A4E1987D98B00E2094C /* main.m in Sources */,
 				601D0A521987D98B00E2094C /* TTTAppDelegate.m in Sources */,
+				6019206F19AF753700DED745 /* TTTGameData.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
