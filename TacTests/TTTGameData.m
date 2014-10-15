@@ -216,7 +216,7 @@
     
     if (emptySpots == 0 && !winner)
     {
-        UIAlertView * alert = [[UIAlertView alloc] initWithTitle:@"Draw!" message:@"CONGRATULATIONS: You both suck" delegate:self cancelButtonTitle:@"Start Over" otherButtonTitles: nil];
+        UIAlertView * alert = [[UIAlertView alloc] initWithTitle:@"Draw!" message:@"COME ON: You can do better than that!" delegate:self cancelButtonTitle:@"Start Over" otherButtonTitles: nil];
         
         [alert show];
     }
